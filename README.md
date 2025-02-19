@@ -1,4 +1,4 @@
-# BrickBuster V1.0
+# BrickBuster V0.1
 ## _"A highly effective pentesting tool for detecting unchanged default credentials and escalating to admin on Brickcom cameras." -DoomerToChad_
 
 **BrickBuster** is a security testing tool designed to quickly check for default login vulnerabilities in **Brickcom** cameras.
